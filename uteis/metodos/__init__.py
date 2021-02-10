@@ -1,11 +1,11 @@
+import chromedriver_autoinstaller
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from time import sleep
 from datetime import datetime
 
 # Driver
-driver = webdriver.Chrome(
-    "/home/victor/Documentos/Python - Projects/Selenium/selenium-python-get-text/chromedriver")
+chromedriver_autoinstaller.install()
+driver = webdriver.Chrome()
 
 # Url
 url = "https://www.coronatracker.com/"
