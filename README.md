@@ -5,8 +5,8 @@
 
 # Necessário:
 
-* Python
-* [Selenium](https://pypi.org/project/selenium/) - Instalar biblioteca pip
+* Para instalar dependências utilize o comando: ```pip install -r requirementes.txt```
+* Para instalar dependências de teste utilize o comando: ```pip install -r requirementes-dev.txt```
 
 ### Demonstração
 
