@@ -1,5 +1,9 @@
 # # Capturar dados de Covid-19 em navegador usando Python + Selenium
 
+[![Python 3](https://pyup.io/repos/github/victoraugusto6/selenium-python-covid/python-3-shield.svg)](https://pyup.io/repos/github/victoraugusto6/selenium-python-covid/)
+[![Updates](https://pyup.io/repos/github/victoraugusto6/selenium-python-covid/shield.svg)](https://pyup.io/repos/github/victoraugusto6/selenium-python-covid/)
+[![Build Status](https://travis-ci.com/victoraugusto6/selenium-python-covid.svg?branch=master)](https://travis-ci.com/victoraugusto6/selenium-python-covid)
+
 <br>
 É informado os números de mortes, recuperados e casos confirmados de Covid-19 na data atual.
 
